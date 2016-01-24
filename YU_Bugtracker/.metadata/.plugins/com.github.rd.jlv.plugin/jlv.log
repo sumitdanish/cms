@@ -1,0 +1,4 @@
+[24-Dec-2015-22:45:52:588][31][ViewSourceProvider][DEBUG]: View source provider has been disposed.
+[24-Dec-2015-22:45:53:711][122][ResourceManager$InternalManager][DEBUG]: Image registry was disposed: true
+[24-Dec-2015-22:45:53:711][124][ResourceManager$InternalManager][DEBUG]: Color registry was disposed: true
+[24-Dec-2015-22:45:53:712][126][ResourceManager$InternalManager][DEBUG]: Font registry was disposed: true
